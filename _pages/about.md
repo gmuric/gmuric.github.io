@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TEST is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi. I'm Goran Murić"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-TEST TEST a TEST that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Research Scientist at the [University of Southern California‘s](https://www.usc.edu/) [Information Sciences Institute](https://www.isi.edu/) in the research group led by prof. [Emilio Ferrara](http://www.emilio.ferrara.name/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
+
+Most of my current research falls within the intersection of **Machine Learning**, **Agent-based Simulations**, **Social Computing** and **Network Theory**. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data.
+
 
 A data-driven personal website
 ======
