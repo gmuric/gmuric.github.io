@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at the [University of Southern California‘s](https://www.usc.edu/) [Information Sciences Institute](https://www.isi.edu/) in the research group led by prof. [Emilio Ferrara](http://www.emilio.ferrara.name/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
+I am a Research Computer Scientist at the [University of Southern California‘s](https://www.usc.edu/) [Information Sciences Institute](https://www.isi.edu/) in the research group led by prof. [Emilio Ferrara](http://www.emilio.ferrara.name/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
 
 Most of my current research falls within the intersection of **Machine Learning**, **Agent-based Simulations**, **Social Computing** and **Network Theory**. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data.
 
