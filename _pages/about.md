@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Computer Scientist at the [USC‘s](https://www.usc.edu/) [Information Sciences Institute - Artificial Intelligence Division](https://www.isi.edu/) working closely with prof. [Emilio Ferrara](http://www.emilio.ferrara.name/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
+I am a Principal Scientist at the [InferLink Corporation](https://www.inferlink.com/). Previously a Research Computer Scientist at the [USC‘s](https://www.usc.edu/) [Information Sciences Institute - Artificial Intelligence Division](https://www.isi.edu/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
 
 I am a **DARPA-funded researcher** interested in a wide range of problems at the intersection of **Machine Learning**, **Agent-based Simulations**, **Causal Modelling** and **Network Theory**. I have extensive experience in managing large cross-domain scientific teams, as well as conducting the research independently. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data. I build novel technologies and state-of-the-art methods for Machine Learning applications.
 
 
-## Appointments
-
-* May 2021 – present: **Research Computer Scientist**, [Information Sciences Institute, Artificial Intelligence Division](https://www.isi.edu/ai/), University of Southern California, Los Angeles, CA, USA
+## Employment History
+* December 2022 – current: **Principal Scientist**, [InferLink Corporation](https://www.inferlink.com/), Los Angeles, CA, USA
+* May 2021 – December 2022: **Research Computer Scientist**, [Information Sciences Institute, Artificial Intelligence Division](https://www.isi.edu/ai/), University of Southern California, Los Angeles, CA, USA
 * March 2018 – May 2021: **PostDoc**, [Information Sciences Institute, Artificial Intelligence Division](https://www.isi.edu/ai/), University of Southern California, Los Angeles, CA, USA
 
 ## Teaching 
 
 **Spring 2022** - [DSCI550 - Data Science at Scale](https://sites.google.com/view/dsci-550-spring2022/home)
 
-## Current Projects
+## Previous and Current Projects
 ### DARPA funded - “UPSCALE: Universal Population Segmentation and Characterization Algorithms for OnLine Environments” under [INCAS](https://www.darpa.mil/program/influence-campaign-awareness-and-sensemaking) **[Co-PI]**
 Developing the next generation of tools and techniques for awareness and sensemaking of online influence campaigns, including their detection, characterization, quantification of confidence, and tracking.
 
