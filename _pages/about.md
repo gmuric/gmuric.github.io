@@ -23,6 +23,12 @@ I am a **DARPA-funded researcher** interested in a wide range of problems at the
 **Spring 2022** - [DSCI550 - Data Science at Scale](https://sites.google.com/view/dsci-550-spring2022/home)
 
 ## Previous and Current Projects
+### DARPA funded "MinMod: Extracting Models of Minerals from Knowledge" under [CriticalMAAS] (https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) **[PI]**
+Coordinating a team of developers and scientists to develop state-of-the-art data retrieval methods from large unstructured texts, particularly from large mining reports. This initiative is aimed at creating structured databases to enhance the utilization of critical minerals and uncover potential new mining locations for these essential resources.
+
+### Army funded "Adaptive Translation Engine for Minimal Resource Languages (ATE)" **[PI]**
+The project aims to expand the capabilities of a Massively Multilingual Neural Machine Translation (NMT) system, developed by ISI, focusing on providing translation services for low-resource languages in the Indo-Pacific region. 
+
 ### DARPA funded - “UPSCALE: Universal Population Segmentation and Characterization Algorithms for OnLine Environments” under [INCAS](https://www.darpa.mil/program/influence-campaign-awareness-and-sensemaking) **[Co-PI]**
 Developing the next generation of tools and techniques for awareness and sensemaking of online influence campaigns, including their detection, characterization, quantification of confidence, and tracking.
 
