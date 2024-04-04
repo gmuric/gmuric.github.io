@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Principal Scientist at the [InferLink Corporation](https://www.inferlink.com/). Previously a Research Computer Scientist at the [USC‘s](https://www.usc.edu/) [Information Sciences Institute - Artificial Intelligence Division](https://www.isi.edu/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
 
-I am a **DARPA-funded researcher** interested in a wide range of problems at the intersection of **Machine Learning**, **Agent-based Simulations**, **Causal Modelling** and **Network Theory**. I have extensive experience in managing large cross-domain scientific teams, as well as conducting the research independently. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data. I build novel technologies and state-of-the-art methods for Machine Learning applications.
+I am a **DARPA-funded researcher** interested in a wide range of problems at the intersection of **Machine Learning**, **Natural Language Processing**, **Agent-based Simulations** and **Causal Modelling**. I have extensive experience in managing large cross-domain scientific teams, as well as conducting the research independently. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data. I build novel technologies and state-of-the-art methods for Machine Learning applications.
 
 
 ## Employment History
