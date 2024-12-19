@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Principal Scientist at the [InferLink Corporation](https://www.inferlink.com/). Previously a Research Computer Scientist at the [USC‘s](https://www.usc.edu/) [Information Sciences Institute - Artificial Intelligence Division](https://www.isi.edu/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
 
-I am a Principal Investigator and researcher specializing in **AI**, **Natural Language Processing**, **Agent-based Simulations** and **Causal Modelling**. I lead multidisciplinary projects funded by **DARPA** and the **DoD**, tackling some of the most complex challenges. My work includes knowledge extraction from unstructured texts, combating online influence campaigns, multilingual translation for low-resource languages, and simulating information environments. I also study misinformation and extremist dynamics, with numerous publications in leading journals and conferences.
+I am a Researcher and Principal Investigator specializing in **AI**, **Natural Language Processing**, **Agent-based Simulations** and **Causal Modelling**. I lead multidisciplinary projects funded by **DARPA** and the **DoD**, tackling some of the most complex challenges. My work includes knowledge extraction from unstructured texts, combating online influence campaigns, multilingual translation for low-resource languages, and simulating information environments. I also study misinformation and extremist dynamics, with numerous publications in leading journals and conferences.
 
 
 ## Employment History
