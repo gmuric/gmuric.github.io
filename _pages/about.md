@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Principal Scientist at the [InferLink Corporation](https://www.inferlink.com/). Previously a Research Computer Scientist at the [USC‘s](https://www.usc.edu/) [Information Sciences Institute - Artificial Intelligence Division](https://www.isi.edu/). I got a PhD in Engineering at TU Dresden at the [Faculty of Electrical and Computer Engineering](https://tu-dresden.de/ing/elektrotechnik).
 
-I am a **DARPA-funded researcher** interested in a wide range of problems at the intersection of **Machine Learning**, **Natural Language Processing**, **Agent-based Simulations** and **Causal Modelling**. I have extensive experience in managing large cross-domain scientific teams, as well as conducting the research independently. I study complex machine-to-machine, machine-to-human and human-to-human interactions and address technical and societal problems leveraging the online and offline data. I build novel technologies and state-of-the-art methods for Machine Learning applications.
+I am a Principal Investigator and researcher specializing in **AI**, **Natural Language Processing**, **Agent-based Simulations** and **Causal Modelling**. I lead multidisciplinary projects funded by **DARPA** and the **DoD**, tackling some of the most complex challenges. My work includes knowledge extraction from unstructured texts, combating online influence campaigns, multilingual translation for low-resource languages, and simulating information environments. I also study misinformation and extremist dynamics, with numerous publications in leading journals and conferences.
 
 
 ## Employment History
@@ -23,13 +23,16 @@ I am a **DARPA-funded researcher** interested in a wide range of problems at the
 **Spring 2022** - [DSCI550 - Data Science at Scale](https://sites.google.com/view/dsci-550-spring2022/home)
 
 ## Previous and Current Projects
-### DARPA funded "MinMod: Extracting Models of Minerals from Knowledge" under [CriticalMAAS] (https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) **[PI]**
+### **[PI]** DoD funded "Chemical Pathways"
+Leading efforts to extract chemical synthesis pathways for target chemicals from extensive literature sources, including scientific articles and patents.
+
+### **[PI]** DARPA funded "MinMod: Extracting Models of Minerals from Knowledge" under [CriticalMAAS](https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) 
 Coordinating a team of developers and scientists to develop state-of-the-art data retrieval methods from large unstructured texts, particularly from large mining reports. This initiative is aimed at creating structured databases to enhance the utilization of critical minerals and uncover potential new mining locations for these essential resources.
 
-### DoD funded "Adaptive Translation Engine for Minimal Resource Languages (ATE)" **[PI]**
-The project aims to expand the capabilities of a Massively Multilingual Neural Machine Translation (NMT) system, developed by ISI, focusing on providing translation services for low-resource languages in the Indo-Pacific region. 
+### **[PI]** DoD funded "Adaptive Translation Engine for Minimal Resource Languages (ATE)" 
+The project aims to expand the capabilities of a Massively Multilingual Neural Machine Translation (NMT) system, focusing on providing translation services for low-resource languages in the Indo-Pacific region. 
 
-### DARPA funded - “UPSCALE: Universal Population Segmentation and Characterization Algorithms for OnLine Environments” under [INCAS](https://www.darpa.mil/program/influence-campaign-awareness-and-sensemaking) **[Co-PI]**
+### **[Co-PI]** DARPA funded - “UPSCALE: Universal Population Segmentation and Characterization Algorithms for OnLine Environments” under [INCAS](https://www.darpa.mil/program/influence-campaign-awareness-and-sensemaking) 
 Developing the next generation of tools and techniques for awareness and sensemaking of online influence campaigns, including their detection, characterization, quantification of confidence, and tracking.
 
 ### DARPA funded - “DARMA: Dialogue Agent for Reducing Malicious Acts”
